@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ponchobhujltd-com.github.io/sitemap.xml
+Sitemap: https://outcomesolution.github.io/sitemap.xml

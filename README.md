@@ -14,7 +14,7 @@ Double-click `index.html` to view in your browser.
 - `sitemap.xml`, `robots.txt` — SEO
 
 ## Before going live
-1. Live URL: https://ponchobhujltd-com.github.io/ (canonical URLs, sitemap and robots.txt already use it). See `docs-seo/` for SEO reports and Search Console steps.
+1. Live URL: https://outcomesolution.github.io/ (canonical URLs, sitemap and robots.txt already use it). See `docs-seo/` for SEO reports and Search Console steps.
 2. Replace the sample cards in `success-stories.html` with real learner stories (with permission).
 3. Confirm instalment / refund wording in `subscription.html` (Payment terms table).
 

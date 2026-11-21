@@ -1,6 +1,6 @@
 # Outcome Solution: Technical SEO Audit & Changes
 
-Site: https://ponchobhujltd-com.github.io/ (GitHub Pages user site, root domain)
+Site: https://outcomesolution.github.io/ (GitHub Pages user site, root domain)
 Date: 2026-11-11
 
 ## 1. Audit findings (before)
@@ -23,7 +23,7 @@ Already good (kept): HTML5 semantic structure, one H1 per page, alt text on ever
 
 ### All 13 pages
 - New unique, keyword-focused `<title>` and meta description.
-- `<link rel="canonical">` with absolute URLs (`https://ponchobhujltd-com.github.io/...`).
+- `<link rel="canonical">` with absolute URLs (`https://outcomesolution.github.io/...`).
 - Full Open Graph and Twitter Card tags with absolute image URLs.
 - `meta robots`: `index, follow` everywhere except `success-stories.html` (see below).
 - One JSON-LD `@graph` per page: EducationalOrganization + WebSite + WebPage (AboutPage/ContactPage where relevant) + BreadcrumbList on inner pages, Course on the programs, course-modules, dropshipping and subscription pages, and FAQPage wherever a page has a visible FAQ (the schema text is generated from the visible FAQ, so they always match).
